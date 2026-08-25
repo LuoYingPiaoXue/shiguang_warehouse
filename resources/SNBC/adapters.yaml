@@ -1,0 +1,9 @@
+# resources/SNBC/adapters.yaml
+adapters:
+  - adapter_id: "SNBC_01"
+    adapter_name: "陕西工商职业学院强智教务"
+    category: "BACHELOR_AND_ASSOCIATE"
+    asset_js_path: "snbc_01.js"
+    import_url: "https://jwgl.snouedu.cn/"
+    maintainer: "落桜飘雪"
+    description: "陕西工商职业学院强智教务，如果有误建议提交issues"
