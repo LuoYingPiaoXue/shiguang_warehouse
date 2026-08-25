@@ -742,3 +742,8 @@ schools:
     name: "南通大学"
     initial: "N"
     resource_folder: "NTU"
+
+  - id: "SNBC"
+    name: "陕西工商职业学院"
+    initial: "S"
+    resource_folder: "SNBC"
